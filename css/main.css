@@ -1,0 +1,11 @@
+.menu1, .menu2, .menu3 { background-color: #039be5; font-size: 10px; color: #333; border: 1px solid #ccc; }
+
+.menu1 { background-color: #ff1; font-size: 30px; color: #fff; border: 1px solid #000; }
+
+.menu2 { background-color: #f00; font-size: 20px; color: #555; border: 2px solid #fff; }
+
+.container header .menu ul { display: -webkit-box; display: -ms-flexbox; display: flex; margin: 0px -40px; }
+
+.container header .menu ul li { list-style: none; }
+
+.container header .menu ul li a { margin-left: 10px; color: #039be5; font-size: 14px; }
